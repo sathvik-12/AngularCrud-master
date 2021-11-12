@@ -1,0 +1,9 @@
+npm install -g json-server
+
+cd C:\Users\Sravya\Desktop\Angular\crudjson_Api_Try\src\assets
+with the above command Goto the location where the json file is
+and execute the following command.
+
+json-server --watch Employee.json
+
+
